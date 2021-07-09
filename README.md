@@ -19,7 +19,7 @@ It was my first project, written mainly in **``Python``**, and  some **``Bash``*
 ---
 
 ### 🏛 Faculty of Computer Science Projects
-These projects where done between the years 2016 and 2018, in the University of Buenos Aires. I made this projects with a group of fellow students as part of the lectures we were taking. We had to make specifications from the poject guidelines, write the software from those specifications, and then make extensive tests that would be shown on a report with graphics and conclusions.
+These projects have been done between 2016 and 2018, in the University of Buenos Aires. I performed them with a group of fellow students as part of the lectures we were taking. We made specs from the poject guidelines, writing the software from those specs, and making extensive testing shown lately on a comprehensive report, with graphics and conclusions.
 - [Machine Learning techniques for Face Recognition](https://github.com/patosabogal/Metodos-TP2)  
 Written in **`C++`** and **`Python`** for Numerical Methods.
 
