@@ -3,7 +3,7 @@
 A web portfolio for showcasing the shorts where I worked, mainly as editor and co-director/writer. Done with **`Vue.JS`**.
 - [Music Theory Web](https://github.com/istng/music-theory-web)  
 This web aims to replicate how I learned and keep learning music theory in an interactive way. Doing it with 
-**`React`**.
+**`React`** and **`SCSS`**.
 - [Tags for Text](https://github.com/istng/tag-space)  
 Application to save text -be it ideas, links, directions, memories, recommendations, etc-, and tag them with my own categories to make the retrieval of those _text cards_ easier.  
 The main app is completed, I'm currently working on implementing a login system. Frontend done with **`Vue.JS`**, backend with **`Python`** and database with **`PostgreSQL`**.
@@ -18,8 +18,8 @@ It was my first project, written mainly in **``Python``**, and  some **``Bash``*
 
 ---
 
-### 🏛 University of Computer Science Projects
-These projects where done between the years 2016 and 2018. They where a teaching tool by my college, where we had to make specifications from the poject guidelines, write the software from those specifications, and then make extensive tests that would be shown on a report with graphics and conclusions.
+### 🏛 Faculty of Computer Science Projects
+These projects where done between the years 2016 and 2018, in the University of Buenos Aires. I made this projects with a group of fellow students as part of the lectures we were taking. We had to make specifications from the poject guidelines, write the software from those specifications, and then make extensive tests that would be shown on a report with graphics and conclusions.
 - [Machine Learning techniques for Face Recognition](https://github.com/patosabogal/Metodos-TP2)  
 Written in **`C++`** and **`Python`** for Numerical Methods.
 
