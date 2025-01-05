@@ -5,7 +5,7 @@ Developing a full stack solution to see movies on local Buenos Aires theaters sc
 ---
 
 ### 🌐 Web Development Projects
-- [Guitar Comparission Tool](https://alvarezguitars.com/compare-guitars/)
+- [Guitar Comparission Tool](https://alvarezguitars.com/compare-guitars/)  
 Guitar comparission tool made with plain **`JavaScrip`**. Implemented full stack solution from a design done by fellow coworker on Dreamland.
 - [Shorts Web Portfolio](https://ivangk.web.app)  
 A web portfolio for showcasing short films where I worked, mainly as editor and co-director/writer. Done with **`Vue.JS`**.
